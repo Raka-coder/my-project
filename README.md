@@ -9,5 +9,5 @@ Currently, two official plugins are available:
 
 
 # Contributors
-- [@username1](https://github.com/Raka-coder)
-- [@username2](https://github.com/Luthfi778)
+- [Raka](https://github.com/Raka-coder)
+- [Luthfi](https://github.com/Luthfi778)
